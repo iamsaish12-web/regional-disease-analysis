@@ -40,7 +40,6 @@ This project uses Python to analyse regional and disease-specific outbreak data.
 - `Final_data.csv` – Dataset (if redistribution is permitted).
 
 ## Author
-Your Name
+Saish Padher
 
-## Institution
-Your College Name
+
